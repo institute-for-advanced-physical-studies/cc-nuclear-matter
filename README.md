@@ -1,2 +1,1 @@
-# cc-nuclear-matter
-Coupled-cluster method derived nuclear matter equation of state 
+#Nuclear matter equation of state derived from coupled-cluster method calculations
